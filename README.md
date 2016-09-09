@@ -1,1 +1,2 @@
-hello hai this is new repository file 
+# sample
+sample repository for project
